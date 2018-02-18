@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class NumbersNto1 {
+public class 2kplus1 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 
